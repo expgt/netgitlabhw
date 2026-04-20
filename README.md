@@ -25,9 +25,9 @@
 
 ### Задание 1
 
-
-![Название скриншота 1](ссылка на скриншот 1)
-
+![Runner_config](https://github.com/expgt/netgitlabhw/blob/main/runner_config1.png)
+![Runner_UI](https://github.com/expgt/netgitlabhw/blob/main/runner_ui1.png)
+![Conteiner](https://github.com/expgt/netgitlabhw/blob/main/conteiner1.png)
 
 ---
 
