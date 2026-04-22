@@ -33,7 +33,7 @@
 
 ### Задание 2
 
-![Gitlab-ci file](https://github.com/expgt/netgitlabhw/blob/main/.gitlab-ci.yml)
+![Gitlab-ci test file](https://github.com/expgt/netgitlabhw/blob/main/gitlab-ci_test.yml)
 
 ![Screenshot passed pipeline](https://github.com/expgt/netgitlabhw/blob/main/screenshot2.png)
 
@@ -41,12 +41,7 @@
 
 ### Задание 3
 
+![Gitlab-ci test file](https://github.com/expgt/netgitlabhw/blob/main/gitlab-ci_no_test.yml)
 
-![Название скриншота](ссылка на скриншот)
+![Screenshot passed pipeline](https://github.com/expgt/netgitlabhw/blob/main/screenshot3.png)
 
----
-
-### Задание 4
-
-
-![Название скриншота](ссылка на скриншот)
