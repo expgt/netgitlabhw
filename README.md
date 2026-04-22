@@ -33,7 +33,9 @@
 
 ### Задание 2
 
-![Название скриншота 2](ссылка на скриншот 2)
+![Gitlab-ci file](https://github.com/expgt/netgitlabhw/blob/main/.gitlab-ci.yml)
+![Screenshot passed pipeline](https://github.com/expgt/netgitlabhw/blob/main/screenshot2.png)
+
 
 
 ---
