@@ -34,9 +34,8 @@
 ### Задание 2
 
 ![Gitlab-ci file](https://github.com/expgt/netgitlabhw/blob/main/.gitlab-ci.yml)
+
 ![Screenshot passed pipeline](https://github.com/expgt/netgitlabhw/blob/main/screenshot2.png)
-
-
 
 ---
 
