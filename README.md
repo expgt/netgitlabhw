@@ -41,7 +41,7 @@
 
 ### Задание 3
 
-![Gitlab-ci test file](https://github.com/expgt/netgitlabhw/blob/main/gitlab-ci_no_test.yml)
+![Gitlab-ci no test file](https://github.com/expgt/netgitlabhw/blob/main/gitlab-ci_no_test.yml)
 
 ![Screenshot passed pipeline](https://github.com/expgt/netgitlabhw/blob/main/screenshot3.png)
 
